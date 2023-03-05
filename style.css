@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+background-color: cornflowerblue;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+form{
+    background-color: darkslategray;
+    position: absolute;
+    padding: 20px;
+    border-radius: 20px;
+
+}
